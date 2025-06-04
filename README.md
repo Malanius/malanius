@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Malanius' GitHub stats](https://github-readme-stats.vercel.app/api?username=malanius&show_icons=true&theme=catppuccin_mocha)]([https://github.com/Malanius/](https://github.com/Malanius))
+[![GitHub Streak](https://streak-stats.demolab.com?user=malanius&theme=catppuccin-mocha&hide_longest_streak=true)](https://github.com/Malanius/)
